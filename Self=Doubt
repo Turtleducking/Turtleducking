@@ -1,0 +1,30 @@
+If self.me = identity:
+  If self.me.name = accepted:
+    Return True
+    
+Def place=Vietnam
+#
+  If 
+name = imput("what is your name? ")
+If name = Linhlai
+  Return home
+If name = Jinny
+  Return home
+If name = Xing
+  Return home
+If name = Jimmy
+  Return home
+
+  Self = accept
+If else:
+  Self = reject
+  
+
+Import Job_Applicant#1
+
+If Job_Applicant#(name, languange, more)
+
+
+Syntax Error: invalid syntax: C:\Users\Desktop\Self.py, line 1, pos 4
+If self.me = identity:
+##please define self.me
